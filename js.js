@@ -43,4 +43,6 @@ $(function () {
     looperButtonEl.focus(() => {
         inTextEl.focus();
     });
+
+    inTextEl.focus();
 });
